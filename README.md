@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### This is Paria, <br> A back-end developer who loves traveling and nature.<br>How can I Help you?
+#### This is Paria, <br> A back-end developer who loves traveling and nature.<br>How can I help you?
 
 
 <p id="header" align="center">
